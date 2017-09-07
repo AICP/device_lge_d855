@@ -53,7 +53,7 @@ PRODUCT_PACKAGES += \
 # NFC packages
 PRODUCT_PACKAGES += \
     NfcNci \
-    nfc_nci.pn54x.default
+    nfc_nci.msm8974
 
 # FM Radio
 PRODUCT_PACKAGES += \
