@@ -8,4 +8,15 @@ telephony.lteOnCdmaDevice=0
 telephony.lteOnGsmDevice=1
 
 # Bluetooth
-qcom.bluetooth.soc=smd
+vendor.qcom.bluetooth.soc=pronto
+ro.bluetooth.hfp.ver=1.7
+ro.qualcomm.bt.hci_transport=smd
+ro.bluetooth.dun=false
+ro.bluetooth.sap=false
+ro.qualcomm.bluetooth.ftp=true
+ro.qualcomm.bluetooth.hfp=true
+ro.qualcomm.bluetooth.hsp=true
+ro.qualcomm.bluetooth.map=true
+ro.qualcomm.bluetooth.nap=true
+ro.qualcomm.bluetooth.opp=true
+ro.qualcomm.bluetooth.pbap=true
