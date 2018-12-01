@@ -33,10 +33,6 @@ DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/gps.conf:system/etc/gps.conf
 
-# Recovery
-PRODUCT_PACKAGES += \
-    librecovery_updater_g3
-
 # RIL
 PRODUCT_PACKAGES += \
     librmnetctl
