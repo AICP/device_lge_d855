@@ -1,6 +1,7 @@
 [
   {
-    "repository": "device_lge_g3-common",
-    "target_path": "device/lge/g3-common"
+    "repository": "AICP/device_lge_g3-common",
+    "target_path": "device/lge/g3-common",
+    "branch":      "p9.0"
   }
 ]
